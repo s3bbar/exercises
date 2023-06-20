@@ -1,4 +1,4 @@
-multiplier = 5
+multiplier = 4
 has_calculated = False
 
 
